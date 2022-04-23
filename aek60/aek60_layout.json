@@ -1,0 +1,113 @@
+[
+  {
+    "name": "AEK60"
+  },
+  [
+    "~\n`",
+    "!\n1",
+    "@\n2",
+    "#\n3",
+    "$\n4",
+    "%\n5",
+    "^\n6",
+    "&\n7",
+    "*\n8",
+    "(\n9",
+    ")\n0",
+    "_\n-",
+    "+\n=",
+    {
+      "w": 2
+    },
+    "\ndelete"
+  ],
+  [
+    {
+      "w": 1.5
+    },
+    "\ntab",
+    "\nQ",
+    "\nW",
+    "\nE",
+    "\nR",
+    "\nT",
+    "\nY",
+    "\nU",
+    "\nI",
+    "\nO",
+    "\nP",
+    "{\n[",
+    "}\n]",
+    {
+      "w": 1.5
+    },
+    "|\n\\"
+  ],
+  [
+    {
+      "w": 1.75
+    },
+    "\nlock\n\n\n\n\ncaps",
+    "\nA",
+    "\nS",
+    "\nD",
+    "\nF",
+    "\nG",
+    "\nH",
+    "\nJ",
+    "\nK",
+    "\nL",
+    ":\n;",
+    "\"\n'",
+    {
+      "w": 2.25
+    },
+    "\nreturn"
+  ],
+  [
+    {
+      "w": 2.25
+    },
+    "\nshift",
+    "\nZ",
+    "\nX",
+    "\nC",
+    "\nV",
+    "\nB",
+    "\nN",
+    "\nM",
+    "<\n,",
+    ">\n.",
+    "?\n/",
+    "del\n<i class='kb kb-Unicode-DeleteRight-Big'></i>",
+    "\n<i class='kb kb-Arrows-Up'></i>",
+    "\nend"
+  ],
+  [
+    {
+      "w": 1.5
+    },
+    "\ncontrol",
+    {
+      "w": 1.25
+    },
+    "alt\noption",
+    {
+      "w": 1.5
+    },
+    "\n<i class='kb kb-logo-apple-outline'></i>\n\n⌘",
+    {
+      "a": 7,
+      "w": 6.5
+    },
+    "",
+    {
+      "a": 4,
+      "w": 1.5
+    },
+    "\n<i class='kb kb-logo-apple-outline'></i>\n\n⌘",
+    "\n<i class='kb kb-Arrows-Left'></i>",
+    "\n<i class='kb kb-Arrows-Down'></i>",
+    "\n<i class='kb kb-Arrows-Right'></i>"
+  ]
+]
