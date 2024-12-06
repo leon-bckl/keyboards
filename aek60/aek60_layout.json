@@ -79,9 +79,9 @@
     "<\n,",
     ">\n.",
     "?\n/",
-    "del\n<i class='kb kb-Unicode-DeleteRight-Big'></i>",
+	"\nend",
     "\n<i class='kb kb-Arrows-Up'></i>",
-    "\nend"
+	"del\n<i class='kb kb-Unicode-DeleteRight-Big'></i>"
   ],
   [
     {
